@@ -1,0 +1,26 @@
+<
+	name="PlayerIdle",
+	SpriteRect="170,368,64,368",
+	Cols="2",
+	Rows="8",
+	fps="0.2",
+	Scale="1.5"
+/>
+
+<
+	name="PlayerWalking",
+	SpriteRect="0,368,136,368",
+	Cols="4",
+	Rows="8",
+	fps="0.2",
+	Scale="1.5"
+/>
+
+<
+	name="PlayerDying",
+	SpriteRect="0,420,168,38",
+	Cols="4",
+	Rows="1",
+	fps="0.3",
+	Scale="1.5"
+/>

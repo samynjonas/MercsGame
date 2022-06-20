@@ -1,0 +1,58 @@
+<Map
+	name="VerticalMap"
+/>
+
+<Crate
+	pos="419.000000,1612.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="479.000000,1609.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="545.000000,1615.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="604.000000,1615.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="447.000000,1555.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="523.000000,1556.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="586.000000,1560.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="492.000000,1514.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="564.000000,1513.000000"
+	drop="Power"
+/>
+
+<Crate
+	pos="531.000000,1467.000000"
+	drop="Power"
+/>
+
+<Player
+	pos="546.000000,1368.000000"
+/>
+

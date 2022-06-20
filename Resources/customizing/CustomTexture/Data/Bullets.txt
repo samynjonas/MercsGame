@@ -1,0 +1,75 @@
+<
+	name="Bomb",
+	SpriteRect="0,359,20,10",
+	Cols="2",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+<
+	name="BigExplosion",
+	SpriteRect="0,199,200,50",
+	Cols="4",
+	Rows="1",
+	fps="0.5",
+	Scale="1.25"
+/>
+<
+	name="SmallExplosion",
+	SpriteRect="0,109,160,40",
+	Cols="4",
+	Rows="1",
+	fps="0.1",
+	Scale="1.25"
+/>
+
+<
+	name="SingleBullet",
+	SpriteRect="0,229,30,10",
+	Cols="3",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+<
+	name="DoubleBullet",
+	SpriteRect="0,269,30,10",
+	Cols="3",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+<
+	name="TrippleBullet",
+	SpriteRect="0,309,30,10",
+	Cols="3",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+<
+	name="GreenBullet",
+	SpriteRect="3,381,37,17",
+	Cols="3",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+<
+	name="BulletHit",
+	SpriteRect="100,230,24,12",
+	Cols="2",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+
+<
+	name="JetBullet",
+	SpriteRect="100,359,150,30",
+	Cols="5",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
+

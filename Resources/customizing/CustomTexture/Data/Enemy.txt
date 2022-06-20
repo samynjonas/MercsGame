@@ -1,0 +1,26 @@
+<
+	name="EnemyIdle",
+	SpriteRect="170,368,68,368",
+	Cols="2",
+	Rows="8",
+	fps="0.2",
+	Scale="1.5"
+/>
+
+<
+	name="EnemyWalking",
+	SpriteRect="0,368,136,368",
+	Cols="4",
+	Rows="8",
+	fps="0.2",
+	Scale="1.5"
+/>
+
+<
+	name="EnemyDying",
+	SpriteRect="0,420,168,38",
+	Cols="4",
+	Rows="1",
+	fps="0.3",
+	Scale="1.5"
+/>

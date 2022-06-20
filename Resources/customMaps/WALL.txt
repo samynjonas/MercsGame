@@ -1,0 +1,72 @@
+<Map
+	name="VerticalMap"
+/>
+
+<Player
+	pos="606.000000,1581.000000"
+/>
+
+<SandbagWall
+	pos="588.000000,1656.000000"
+/>
+
+<SandbagWall
+	pos="514.000000,1656.000000"
+/>
+
+<SandbagWall
+	pos="439.000000,1657.000000"
+/>
+
+<SandbagWall
+	pos="368.000000,1659.000000"
+/>
+
+<SandbagWall
+	pos="288.000000,1659.000000"
+/>
+
+<SandbagWall
+	pos="668.000000,1657.000000"
+/>
+
+<SandbagWall
+	pos="748.000000,1658.000000"
+/>
+
+<SandbagWall
+	pos="832.000000,1660.000000"
+/>
+
+<SandbagWall
+	pos="916.000000,1659.000000"
+/>
+
+<Enemy
+	pos="636.000000,1716.000000"
+/>
+
+<SandbagWall
+	pos="193.000000,1657.000000"
+/>
+
+<SandbagWall
+	pos="103.000000,1659.000000"
+/>
+
+<SandbagWall
+	pos="36.000000,1660.000000"
+/>
+
+<SandbagWall
+	pos="994.000000,1659.000000"
+/>
+
+<SandbagWall
+	pos="1073.000000,1658.000000"
+/>
+
+<SandbagWall
+	pos="1157.000000,1655.000000"
+/>
+

@@ -1,0 +1,64 @@
+<
+	name="Tree",
+	SpriteRect="0,260,350,90",
+	Cols="7",
+	Rows="1",
+	fps="0.05",
+	Scale="1.25"
+/>
+<
+	name="House",
+	SpriteRect="0,378,280,70",
+	Cols="4",
+	Rows="1",
+	fps="1",
+	Scale="1.4"
+/>
+<
+	name="Crates",
+	SpriteRect="0,37,114,38",
+	Cols="3",
+	Rows="1",
+	fps="1",
+	Scale="1.25"
+/>
+<
+	name="Sandbag",
+	SpriteRect="0,109,67,25",
+	Cols="1",
+	Rows="1",
+	fps="1",
+	Scale="1.25"
+/>
+<
+	name="Power",
+	SpriteRect="300,109,35,40",
+	Cols="1",
+	Rows="1",
+	fps="1",
+	Scale="1.25"
+/>
+<
+	name="Food",
+	SpriteRect="300,378,35,40",
+	Cols="1",
+	Rows="1",
+	fps="1",
+	Scale="1.25"
+/>
+<
+	name="Health",
+	SpriteRect="370,378,35,40",
+	Cols="1",
+	Rows="1",
+	fps="1",
+	Scale="1.25"
+/>
+<
+	name="Bomb",
+	SpriteRect="300,39,105,40",
+	Cols="3",
+	Rows="1",
+	fps="0.2",
+	Scale="1.25"
+/>
